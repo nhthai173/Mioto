@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "7609d048-813b-4c73-bbb1-07b47a96cb64",
+    "colId": "82e5c7da-4207-4617-a3bc-67b86e92fe44",
+    "containerId": "",
+    "name": "Get all trip",
+    "url": "https://m-car.mioto.vn/trip/histories?&fromId=&pos=0&ver=0",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-03-26T02:43:15.887Z",
+    "modified": "2023-03-26T02:43:15.887Z",
+    "headers": [
+      {
+        "name": "Cookie",
+        "value": "_vid=1iE4fdxB5VxwYC3V; _hv=72ba44b06874fe8f8a4de0eeb51aac94e5c1ec46d8dd34cb15c8bf10e14cd25c; _mid=u8lcrr.7R54bJ-6hVH65xyXMvkS2io2dbt1Mw3u795ydiwn7UVYmSbkXSsMhYAxDFimIBbNu1wLAV4un1DkI6secLqbqg; _hs=ba46df51abede70f4843354cc8479f62afbf6e4e5ddddcf07a8ae129edf4f0d5"
+      },
+      {
+        "name": "User-Agent",
+        "value": "Thunder Client (https://www.thunderclient.com)",
+        "isDisabled": true
+      }
+    ],
+    "params": [
+      {
+        "name": "fromId",
+        "value": "",
+        "isPath": false
+      },
+      {
+        "name": "pos",
+        "value": "0",
+        "isPath": false
+      },
+      {
+        "name": "ver",
+        "value": "0",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  },
+  {
+    "_id": "8e86ecad-1601-45e2-9ce4-53ecc1c87d11",
+    "colId": "82e5c7da-4207-4617-a3bc-67b86e92fe44",
+    "containerId": "",
+    "name": "Get trip detail",
+    "url": "https://m-car.mioto.vn/trip/detail?tripId=DU8BHV6U",
+    "method": "GET",
+    "sortNum": 20000,
+    "created": "2023-03-26T03:05:48.915Z",
+    "modified": "2023-03-26T03:05:48.915Z",
+    "headers": [
+      {
+        "name": "Cookie",
+        "value": "_vid=1iE4fdxB5VxwYC3V; _hv=72ba44b06874fe8f8a4de0eeb51aac94e5c1ec46d8dd34cb15c8bf10e14cd25c; _mid=u8lcrr.7R54bJ-6hVH65xyXMvkS2io2dbt1Mw3u795ydiwn7UVYmSbkXSsMhYAxDFimIBbNu1wLAV4un1DkI6secLqbqg; _hs=ba46df51abede70f4843354cc8479f62afbf6e4e5ddddcf07a8ae129edf4f0d5"
+      },
+      {
+        "name": "User-Agent",
+        "value": "Thunder Client (https://www.thunderclient.com)",
+        "isDisabled": true
+      }
+    ],
+    "params": [
+      {
+        "name": "tripId",
+        "value": "DU8BHV6U",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
