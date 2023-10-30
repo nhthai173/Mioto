@@ -44,11 +44,11 @@
     "colId": "82e5c7da-4207-4617-a3bc-67b86e92fe44",
     "containerId": "",
     "name": "Get trip detail",
-    "url": "https://m-car.mioto.vn/trip/detail?tripId=DU8BHV6U",
+    "url": "https://m-car.mioto.vn/trip/detail?tripId=K8CTJGBJ",
     "method": "GET",
     "sortNum": 20000,
     "created": "2023-03-26T03:05:48.915Z",
-    "modified": "2023-03-26T03:05:48.915Z",
+    "modified": "2023-04-06T10:31:26.170Z",
     "headers": [
       {
         "name": "Cookie",
@@ -63,7 +63,7 @@
     "params": [
       {
         "name": "tripId",
-        "value": "DU8BHV6U",
+        "value": "K8CTJGBJ",
         "isPath": false
       }
     ],

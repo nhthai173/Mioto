@@ -1,0 +1,740 @@
+{
+  "error": 0,
+  "errorMessage": "Thành công",
+  "data": {
+    "trips": [
+      {
+        "id": "DU8BHV6U",
+        "ownerId": "U8LCRR",
+        "travelerId": "USDP3E",
+        "carId": "K2QX19",
+        "status": 25,
+        "serviceType": 1,
+        "needReview": 1,
+        "timeBooked": 1679788365790,
+        "timeApproved": 1679789304692,
+        "timeDeposited": 1679789653850,
+        "timeCanceled": 0,
+        "timePickup": 1679790434124,
+        "timeReturn": 1679880607231,
+        "timeLastAction": 1679880607231,
+        "ts": 1679880607231,
+        "timeExpired": 0,
+        "tripDateFrom": 1679796000000,
+        "tripDateTo": 1679882400000,
+        "priceSummary": {
+          "totalDays": 1,
+          "priceOrigin": 700000,
+          "price": 700000,
+          "discountPercent": 0.0,
+          "discountType": 0,
+          "specialDiscount": 0,
+          "priceSpecial": 700000,
+          "tripFeePercent": 8.5,
+          "tripFee": 59500,
+          "insuranceFee": 59500,
+          "totalPerDay": 819000,
+          "totalAllDay": 819000,
+          "deliveryDistance": 8.9,
+          "deliveryFee": 59000,
+          "promotionDiscount": 87800,
+          "priceTotal": 790200,
+          "depositPercent": 29.891166793216904,
+          "deposit": 236200
+        },
+        "limitEnable": 1,
+        "limitKM": 300,
+        "limitPrice": 5000,
+        "useCarLocation": 0,
+        "pickupTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "returnTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "messageFromTraveller": "A giao xe tại Sân bay Cam Ranh và nhận xe tại Alma Resort nhé!",
+        "promo": "MI803",
+        "reserved": 0,
+        "reservedTimeExpired": 0,
+        "insSupport": 1,
+        "insuranceBy": 1,
+        "insReady": 0,
+        "insAutoTs": 1679796000000,
+        "insActiveInfo": {
+          "activeBy": 1,
+          "certUrl": "https://g2.globalcare.vn/file/3bdefed3-36cc-4fed-941a-fcb8929c678b",
+          "timeActived": 1679790434300,
+          "timeBegin": 1679796000000,
+          "timeEnd": 1679882400000
+        },
+        "insUpThr": 0,
+        "b2b": false
+      },
+      {
+        "id": "MYSTBPKL",
+        "ownerId": "U8LCRR",
+        "travelerId": "UQCQM8",
+        "carId": "K2QX19",
+        "status": 24,
+        "serviceType": 1,
+        "timeBooked": 1678772627944,
+        "timeApproved": 1678772956179,
+        "timeDeposited": 1678773064639,
+        "timeCanceled": 1678790258504,
+        "timePickup": 0,
+        "timeReturn": 0,
+        "timeLastAction": 1678790258504,
+        "ts": 1678790258504,
+        "timeExpired": 0,
+        "tripDateFrom": 1678860000000,
+        "tripDateTo": 1678946400000,
+        "priceSummary": {
+          "totalDays": 1,
+          "priceOrigin": 700000,
+          "price": 700000,
+          "discountPercent": 0.0,
+          "discountType": 0,
+          "specialDiscount": 0,
+          "priceSpecial": 700000,
+          "tripFeePercent": 8.5,
+          "tripFee": 59500,
+          "insuranceFee": 59500,
+          "totalPerDay": 819000,
+          "totalAllDay": 819000,
+          "deliveryDistance": 8.6,
+          "deliveryFee": 56000,
+          "promotionDiscount": 0,
+          "priceTotal": 875000,
+          "depositPercent": 29.942857142857143,
+          "deposit": 262000
+        },
+        "limitEnable": 1,
+        "limitKM": 300,
+        "limitPrice": 5000,
+        "useCarLocation": 0,
+        "pickupTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "returnTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "messageFromTraveller": "",
+        "cancelReason": "Thay đổi lịch trình",
+        "cancelComment": "",
+        "reserved": 0,
+        "reservedTimeExpired": 0,
+        "insSupport": 1,
+        "insuranceBy": 1,
+        "insReady": 0,
+        "insAutoTs": 1678860000000,
+        "insUpThr": 0,
+        "b2b": false
+      },
+      {
+        "id": "62ICEI5U",
+        "ownerId": "U8LCRR",
+        "travelerId": "U5RTLQ",
+        "carId": "K2QX19",
+        "status": 25,
+        "serviceType": 1,
+        "timeBooked": 1676328638308,
+        "timeApproved": 1676328752542,
+        "timeDeposited": 1676339179031,
+        "timeCanceled": 0,
+        "timePickup": 1676388593785,
+        "timeReturn": 1676469691582,
+        "timeLastAction": 1676469691582,
+        "ts": 1676469691582,
+        "timeExpired": 0,
+        "tripDateFrom": 1676383200000,
+        "tripDateTo": 1676466000000,
+        "priceSummary": {
+          "totalDays": 1,
+          "priceOrigin": 700000,
+          "price": 700000,
+          "discountPercent": 0.0,
+          "discountType": 0,
+          "specialDiscount": 0,
+          "priceSpecial": 700000,
+          "tripFeePercent": 8.5,
+          "tripFee": 59500,
+          "insuranceFee": 59500,
+          "totalPerDay": 819000,
+          "totalAllDay": 819000,
+          "deliveryDistance": 0.0,
+          "deliveryFee": 0,
+          "promotionDiscount": 0,
+          "priceTotal": 819000,
+          "depositPercent": 29.914529914529915,
+          "deposit": 245000
+        },
+        "limitEnable": 1,
+        "limitKM": 300,
+        "limitPrice": 5000,
+        "useCarLocation": 1,
+        "pickupTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "returnTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "messageFromTraveller": "",
+        "reserved": 0,
+        "reservedTimeExpired": 0,
+        "insSupport": 1,
+        "insuranceBy": 1,
+        "insReady": 0,
+        "insAutoTs": 1676383200000,
+        "insActiveInfo": {
+          "activeBy": 1,
+          "certUrl": "https://g2.globalcare.vn/file/25d2dfa5-b685-4bac-9992-6b50458d63d2",
+          "timeActived": 1676383351480,
+          "timeBegin": 1676383951480,
+          "timeEnd": 1676466000000
+        },
+        "insUpThr": 0,
+        "b2b": false
+      },
+      {
+        "id": "DU8BHVK3",
+        "ownerId": "U8LCRR",
+        "travelerId": "U7M6PF",
+        "carId": "K2QX19",
+        "status": 25,
+        "serviceType": 1,
+        "timeBooked": 1676004901281,
+        "timeApproved": 1676005337941,
+        "timeDeposited": 1676006538296,
+        "timeCanceled": 0,
+        "timePickup": 1676036197498,
+        "timeReturn": 1676203749657,
+        "timeLastAction": 1676203749657,
+        "ts": 1676203749657,
+        "timeExpired": 0,
+        "tripDateFrom": 1676035800000,
+        "tripDateTo": 1676206800000,
+        "priceSummary": {
+          "totalDays": 2,
+          "priceOrigin": 700000,
+          "price": 700000,
+          "discountPercent": 0.0,
+          "discountType": 0,
+          "specialDiscount": 150000,
+          "priceSpecial": 550000,
+          "tripFeePercent": 7.5,
+          "tripFee": 41250,
+          "insuranceFee": 41250,
+          "totalPerDay": 632500,
+          "totalAllDay": 1265000,
+          "deliveryDistance": 1.1,
+          "deliveryFee": 0,
+          "promotionDiscount": 0,
+          "priceTotal": 1265000,
+          "depositPercent": 29.960474308300395,
+          "deposit": 379000
+        },
+        "limitEnable": 1,
+        "limitKM": 500,
+        "limitPrice": 5000,
+        "useCarLocation": 0,
+        "pickupTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "returnTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "messageFromTraveller": "xin chào\nTôi cần thuê xe để đi Bình Định trong khoảng thời gian trên. Tôi có đầy đủ giấy tờ để thuê xe  và tài sản đặt cọc theo yêu cầu. Mong anh/chị vui lòng thông báo tình trạng xe sớm nhé. xin cảm ơn!",
+        "reserved": 0,
+        "reservedTimeExpired": 0,
+        "insSupport": 1,
+        "insuranceBy": 1,
+        "insReady": 0,
+        "insAutoTs": 1676035800000,
+        "insActiveInfo": {
+          "activeBy": 1,
+          "certUrl": "https://g2.globalcare.vn/file/b713dbe6-d5cc-4817-b87f-0f5b9897474e",
+          "timeActived": 1676035975851,
+          "timeBegin": 1676036575851,
+          "timeEnd": 1676206800000
+        },
+        "insUpThr": 0,
+        "b2b": false
+      },
+      {
+        "id": "JH2R3DBN",
+        "ownerId": "U8LCRR",
+        "travelerId": "UQJ8TU",
+        "carId": "K2QX19",
+        "status": 23,
+        "serviceType": 1,
+        "timeBooked": 1675945901010,
+        "timeApproved": 1675946488039,
+        "timeDeposited": 0,
+        "timeCanceled": 1675951917404,
+        "timePickup": 0,
+        "timeReturn": 0,
+        "timeLastAction": 1675951917404,
+        "ts": 1675951917404,
+        "timeExpired": 0,
+        "tripDateFrom": 1677477600000,
+        "tripDateTo": 1677643200000,
+        "priceSummary": {
+          "totalDays": 2,
+          "priceOrigin": 700000,
+          "price": 700000,
+          "discountPercent": 0.0,
+          "discountType": 0,
+          "specialDiscount": 0,
+          "priceSpecial": 700000,
+          "tripFeePercent": 7.5,
+          "tripFee": 52500,
+          "insuranceFee": 52500,
+          "totalPerDay": 805000,
+          "totalAllDay": 1610000,
+          "deliveryDistance": 8.6,
+          "deliveryFee": 0,
+          "promotionDiscount": 100000,
+          "priceTotal": 1510000,
+          "depositPercent": 30.0,
+          "deposit": 453000
+        },
+        "limitEnable": 1,
+        "limitKM": 500,
+        "limitPrice": 5000,
+        "useCarLocation": 0,
+        "pickupTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "returnTimes": [
+          {
+            "s": 21600,
+            "e": 79200
+          }
+        ],
+        "messageFromTraveller": "",
+        "cancelReason": "Hệ thống tự động hủy chuyến vì quá hạn đặt cọc",
+        "promo": "MI02",
+        "reserved": 0,
+        "reservedTimeExpired": 0,
+        "insSupport": 1,
+        "insuranceBy": 1,
+        "insReady": 0,
+        "insAutoTs": 1677477600000,
+        "insUpThr": 0,
+        "b2b": false
+      }
+    ],
+    "cars": [
+      {
+        "id": "K2QX19",
+        "name": "FORD RANGER XLS 2015",
+        "ownerId": "U8LCRR",
+        "ownerAvatar": "",
+        "seat": 4,
+        "status": 2,
+        "instant": 0,
+        "optionsTransmission": 1,
+        "location": {
+          "lat": 11.969834752356219,
+          "lon": 109.19389851032038,
+          "countryCode": "VN",
+          "cityId": 56,
+          "districtId": 569,
+          "wardId": 22411,
+          "street": "Đại lý vé xe Cô Bê, 826 Hùng Vương"
+        },
+        "locationAddr": " Cam Ranh, Khánh Hòa",
+        "locationAddrS": " Cam Ranh, Khánh Hòa",
+        "d": -1.0,
+        "deliveryEnable": 1,
+        "deliveryRadius": 15,
+        "deliveryRadiusFree": 3,
+        "deliveryPrice": 10000,
+        "photos": [
+          {
+            "id": "M1BY6ZDU",
+            "thumbUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/57P5AOc56Gh7S7cjan2ljA.jpg",
+            "fullUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/5Fo_qY4jqnaDz39NRT5IKg.jpg",
+            "carPhotoId": ""
+          },
+          {
+            "id": "62I1RC7G",
+            "thumbUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/H5b8yPIAw_hf_7Ri67rEpw.jpg",
+            "fullUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/filNMWWmcD6C8oR_pcb8LQ.jpg",
+            "carPhotoId": ""
+          },
+          {
+            "id": "6NHNSZYW",
+            "thumbUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/AKRMqhEXH7wkoTawtp9xZA.jpg",
+            "fullUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/HnBHaBRcx1OnNpZqWtCNtQ.jpg",
+            "carPhotoId": ""
+          },
+          {
+            "id": "CMAQ3BMX",
+            "thumbUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/kiENjuK1D1LluK55pp8Bhg.jpg",
+            "fullUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/nJkqQ7yxejWLtlddQj_DiA.jpg",
+            "carPhotoId": ""
+          },
+          {
+            "id": "1PH97VQI",
+            "thumbUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/SFmzn-JQu8p6UaCu5aik6Q.jpg",
+            "fullUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/-Kgzkwph7-nIcJHHYga4Vg.jpg",
+            "carPhotoId": ""
+          },
+          {
+            "id": "CBGGL1IS",
+            "thumbUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/LFprRkAcFOrydsLCfsvxFQ.jpg",
+            "fullUrl": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_khanhhoa/ford_ranger_xls_2015/p/g/2023/01/03/17/OUaUpyVqlw7bNCsthDn5UQ.jpg",
+            "carPhotoId": ""
+          }
+        ],
+        "photosVerified": 0,
+        "rating": {
+          "avg": 5.0,
+          "star1": 0,
+          "star2": 0,
+          "star3": 0,
+          "star4": 0,
+          "star5": 3
+        },
+        "totalTrips": 3,
+        "totalReviews": 3,
+        "discountEnable": 0,
+        "discountWeekly": 0,
+        "discountMonthly": 0,
+        "price": 700000,
+        "priceOrigin": 700000,
+        "totalDays": 0,
+        "totalDiscountPercent": 0.0,
+        "deliveryFee": 0,
+        "insSupport": 1,
+        "insBy": [
+          1
+        ],
+        "pp": 1,
+        "cccd": 1,
+        "ownerHostFiveStar": 0,
+        "sd": 1,
+        "wd": 0,
+        "vaccinated": 0,
+        "unavailsMinTime": 0,
+        "unavailsDeliveryTime": 0
+      }
+    ],
+    "profiles": [
+      {
+        "uid": "UQCQM8",
+        "name": "Chris Hồ",
+        "avatar": {
+          "thumbUrl": "https://n1-astg.mioto.vn/g/2022/08/29/21/2BI0wLzvQmXumIV3mZOe8w.jpg",
+          "fullUrl": "https://n1-astg.mioto.vn/g/2022/08/29/21/2BI0wLzvQmXumIV3mZOe8w.jpg"
+        },
+        "cover": "https://n1-cstg.mioto.vn/g/2017/11/24/13/38.jpg",
+        "timeCreated": 1664461354655,
+        "phoneVerified": 1,
+        "emailVerified": 1,
+        "facebook": 1,
+        "facebookName": "Chris Hồ",
+        "facebookFr": 0,
+        "google": 0,
+        "driverLicenseStatus": 3,
+        "traveler": {
+          "rating": {
+            "avg": 5.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 3
+          },
+          "totalTrips": 3,
+          "totalReviewsFromOwner": 3
+        },
+        "owner": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 0,
+          "totalReviewsFromTraveler": 0,
+          "responseRate": "-",
+          "responseTime": "-",
+          "acceptRate": "-",
+          "ownerHostFiveStarSD": 0,
+          "ownerHostFiveStarWD": 0,
+          "vaccinated": 0
+        }
+      },
+      {
+        "uid": "USDP3E",
+        "name": "Le Anh Tuan",
+        "avatar": {
+          "thumbUrl": "https://n1-astg.mioto.vn/g/2023/02/26/06/aPO9hO4LQJ7-YMzPN_2Pew.jpg",
+          "fullUrl": "https://n1-astg.mioto.vn/g/2023/02/26/06/aPO9hO4LQJ7-YMzPN_2Pew.jpg"
+        },
+        "cover": "https://n1-cstg.mioto.vn/g/2017/11/24/13/38.jpg",
+        "timeCreated": 1679745041952,
+        "phoneVerified": 1,
+        "emailVerified": 0,
+        "facebook": 1,
+        "facebookName": "Lê Anh Tuấn",
+        "facebookFr": 0,
+        "google": 1,
+        "googleName": "Tuấn Lê Anh",
+        "driverLicenseStatus": 3,
+        "traveler": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 1,
+          "totalReviewsFromOwner": 0
+        },
+        "owner": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 0,
+          "totalReviewsFromTraveler": 0,
+          "responseRate": "-",
+          "responseTime": "-",
+          "acceptRate": "-",
+          "ownerHostFiveStarSD": 0,
+          "ownerHostFiveStarWD": 0,
+          "vaccinated": 0
+        }
+      },
+      {
+        "uid": "UQJ8TU",
+        "name": "City Blue",
+        "avatar": {
+          "thumbUrl": "https://n1-astg.mioto.vn/g/2023/00/17/16/Tq0LXFrN8VSTBrP_fp8HWg.jpg",
+          "fullUrl": "https://n1-astg.mioto.vn/g/2023/00/17/16/Tq0LXFrN8VSTBrP_fp8HWg.jpg"
+        },
+        "cover": "https://n1-cstg.mioto.vn/g/2017/11/24/13/38.jpg",
+        "timeCreated": 1673947736407,
+        "phoneVerified": 1,
+        "emailVerified": 1,
+        "facebook": 0,
+        "facebookFr": -1,
+        "google": 1,
+        "googleName": "City Blue",
+        "driverLicenseStatus": 3,
+        "traveler": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 1,
+          "totalReviewsFromOwner": 0
+        },
+        "owner": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 0,
+          "totalReviewsFromTraveler": 0,
+          "responseRate": "-",
+          "responseTime": "-",
+          "acceptRate": "-",
+          "ownerHostFiveStarSD": 0,
+          "ownerHostFiveStarWD": 0,
+          "vaccinated": 0
+        }
+      },
+      {
+        "uid": "U5RTLQ",
+        "name": "luutienap",
+        "avatar": {
+          "thumbUrl": "https://n1-cstg.mioto.vn/m/avatars/l.jpg",
+          "fullUrl": "https://n1-cstg.mioto.vn/m/avatars/l.jpg"
+        },
+        "cover": "https://n1-cstg.mioto.vn/g/2017/11/24/13/38.jpg",
+        "timeCreated": 1527073990619,
+        "phoneVerified": 1,
+        "emailVerified": 0,
+        "facebook": 0,
+        "facebookFr": -1,
+        "google": 0,
+        "driverLicenseStatus": 3,
+        "traveler": {
+          "rating": {
+            "avg": 5.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 6
+          },
+          "totalTrips": 6,
+          "totalReviewsFromOwner": 6
+        },
+        "owner": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 0,
+          "totalReviewsFromTraveler": 0,
+          "responseRate": "-",
+          "responseTime": "-",
+          "acceptRate": "-",
+          "ownerHostFiveStarSD": 0,
+          "ownerHostFiveStarWD": 0,
+          "vaccinated": 0
+        }
+      },
+      {
+        "uid": "U8LCRR",
+        "name": "Đoan Lương Thị Thuỳ",
+        "avatar": {
+          "thumbUrl": "https://n1-astg.mioto.vn/g/2023/00/31/09/-6Qb22wGgpUHA49-YvgnXg.jpg",
+          "fullUrl": "https://n1-astg.mioto.vn/g/2023/00/31/09/-6Qb22wGgpUHA49-YvgnXg.jpg"
+        },
+        "cover": "https://n1-cstg.mioto.vn/g/2017/11/24/13/38.jpg",
+        "timeCreated": 1675133368765,
+        "phoneVerified": 1,
+        "emailVerified": 1,
+        "facebook": 0,
+        "facebookFr": -1,
+        "google": 1,
+        "googleName": "Đoan Lương Thị Thuỳ",
+        "driverLicenseStatus": 3,
+        "traveler": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 0,
+          "totalReviewsFromOwner": 0
+        },
+        "owner": {
+          "rating": {
+            "avg": 5.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 3
+          },
+          "totalTrips": 3,
+          "totalReviewsFromTraveler": 3,
+          "responseRate": "100%",
+          "responseTime": "0.1 tiếng",
+          "acceptRate": "100%",
+          "ownerHostFiveStarSD": 0,
+          "ownerHostFiveStarWD": 0,
+          "vaccinated": 0
+        }
+      },
+      {
+        "uid": "U7M6PF",
+        "name": "hồ lê pháp",
+        "avatar": {
+          "thumbUrl": "https://n1-cstg.mioto.vn/m/avatars/h.jpg",
+          "fullUrl": "https://n1-cstg.mioto.vn/m/avatars/h.jpg"
+        },
+        "cover": "https://n1-cstg.mioto.vn/g/2017/11/24/13/38.jpg",
+        "timeCreated": 1676003730454,
+        "phoneVerified": 1,
+        "emailVerified": 1,
+        "facebook": 0,
+        "facebookFr": -1,
+        "google": 0,
+        "driverLicenseStatus": 3,
+        "traveler": {
+          "rating": {
+            "avg": 5.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 1
+          },
+          "totalTrips": 1,
+          "totalReviewsFromOwner": 1
+        },
+        "owner": {
+          "rating": {
+            "avg": 0.0,
+            "star1": 0,
+            "star2": 0,
+            "star3": 0,
+            "star4": 0,
+            "star5": 0
+          },
+          "totalTrips": 0,
+          "totalReviewsFromTraveler": 0,
+          "responseRate": "-",
+          "responseTime": "-",
+          "acceptRate": "-",
+          "ownerHostFiveStarSD": 0,
+          "ownerHostFiveStarWD": 0,
+          "vaccinated": 0
+        }
+      }
+    ],
+    "lastId": 1675945901010,
+    "totalTrips": -1,
+    "ver": 0,
+    "more": 0,
+    "unchanged": 0
+  }
+}
